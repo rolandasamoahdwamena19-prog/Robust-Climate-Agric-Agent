@@ -1,5 +1,4 @@
 # AgroSense — Multi-Agent Intelligent System for Climate-Resilient Agriculture
-**DCIT 403 · University of Ghana · Aggrey Paintsil Ishmeal (ID: 11125864)**
 
 ---
 
